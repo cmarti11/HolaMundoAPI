@@ -1,9 +1,9 @@
-﻿using HolaMundoAPi.API.Data;
-using HolaMundoAPi.API.Data.Models;
+﻿using HolaMundoAPI.API.Data;
+using HolaMundoAPI.API.Data.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace HolaMundoAPi.API.Controllers
+namespace HolaMundoAPI.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

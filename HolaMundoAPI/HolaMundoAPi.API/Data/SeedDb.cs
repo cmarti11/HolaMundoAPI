@@ -1,4 +1,4 @@
-﻿namespace HolaMundoAPi.API.Data
+﻿namespace HolaMundoAPI.API.Data
 {
     public class SeedDb
     {

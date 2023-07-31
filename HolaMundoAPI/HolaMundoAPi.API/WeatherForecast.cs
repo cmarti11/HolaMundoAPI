@@ -1,4 +1,4 @@
-namespace HolaMundoAPi.API
+namespace HolaMundoAPI.API
 {
     public class WeatherForecast
     {

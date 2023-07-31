@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace HolaMundoAPi.API.Controllers
+namespace HolaMundoAPI.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

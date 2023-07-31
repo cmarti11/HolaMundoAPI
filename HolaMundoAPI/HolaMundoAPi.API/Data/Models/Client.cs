@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace HolaMundoAPi.API.Data.Models
+namespace HolaMundoAPI.API.Data.Models
 {
     public class Client
     {

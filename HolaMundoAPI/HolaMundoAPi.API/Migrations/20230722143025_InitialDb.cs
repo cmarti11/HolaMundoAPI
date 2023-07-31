@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace HolaMundoAPi.API.Migrations
+namespace HolaMundoAPI.API.Migrations
 {
     /// <inheritdoc />
     public partial class InitialDb : Migration

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using HolaMundoAPi.API.Data.Models;
+using HolaMundoAPI.API.Data.Models;
 
-namespace HolaMundoAPi.API.Data
+namespace HolaMundoAPI.API.Data
 {
     public class DatabaseContext : DbContext
     {
